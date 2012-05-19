@@ -1,5 +1,5 @@
 this.manifest = {
-    "name": "Google Reader Font Settings",
+    "name": "Font Settings for Google Reader",
     "icon": "icon.png",
     "settings": [
         {

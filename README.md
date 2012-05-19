@@ -1,4 +1,6 @@
-# Google Reader font settings 
+# Google Reader font settings
+
+![Screenshot](https://github.com/leonid-shevtsov/google-reader-font-settings/raw/master/screenshot.png)
 
 The default typography of Google Reader sucks enormously. So I made this extension
 that can change the font settings for articles, akin to Readability for web pages.
@@ -15,6 +17,10 @@ I'm thinking about:
 
 * setting the header font, monospace font, etc
 * changing the color scheme
+
+## Installation
+
+[Get it fro the Google Webstore](https://chrome.google.com/webstore/detail/bdmnfdhcffbdbpfnjocdbgbgeadapieg). Then go to the extension's Options page and modify whatever you want.
 
 * * *
 

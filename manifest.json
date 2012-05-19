@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Font Settings for Google Reader",
   "description": "Unofficial font configuration page for Google Reader",
-  "version": "0.12",
+  "version": "0.2",
   "icons": {
     "16": "icon16.png",
     "64": "icon64.png",
@@ -20,6 +20,7 @@
     {
       "matches": ["http://www.google.com/reader/view/*", "https://www.google.com/reader/view/*"],
       "js": ["rule_generator.js", "inject_style.js"],
+      "css": ["notice.css"],
       "run_at": "document_end"
     }
   ]

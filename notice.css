@@ -1,0 +1,15 @@
+#font-settings-notice {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  background: #ffc;
+  z-index: 65536;
+  border-bottom: solid 1px black;
+}
+
+#font-settings-notice div {
+  padding: 5px;
+  text-align: center;
+  font-size: 16px;
+}

@@ -3,6 +3,18 @@ this.manifest = {
     "icon": "icon.png",
     "settings": [
         {
+          "tab": 'Presets',
+          "name": "presetDefault",
+          "type": "button",
+          "text": 'Default'
+        },
+        {
+          "tab": 'Presets',
+          "name": "presetEasyRead",
+          "type": "button",
+          "text": 'Easy read'
+        },
+        {
           "tab": "Font",
           "group": "Font face",
           "name": "fontFamily",

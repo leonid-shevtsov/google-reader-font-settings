@@ -22,6 +22,14 @@ I'm thinking about:
 
 [Get it fro the Google Webstore](https://chrome.google.com/webstore/detail/bdmnfdhcffbdbpfnjocdbgbgeadapieg). Then go to the extension's Options page and modify whatever you want.
 
+## Changelog
+
+* 2012-05-19 0.2
+  * Added presets, added welcome notice, enable some settings by default
+
+* 2012-05-19 0.12
+  * Initial release
+
 * * *
 
 (c) 2012 Leonid Shevtsov
